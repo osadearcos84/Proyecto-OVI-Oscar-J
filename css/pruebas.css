@@ -1,0 +1,231 @@
+*{
+		margin: 0;
+		padding: 0;
+
+	}
+
+
+
+	body{
+
+		background: #005883;
+
+	}
+
+	nav img{
+
+		margin:auto;
+		float: right;
+		width:125px; 
+		margin-bottom: 20px;
+		border-radius: 15px;
+	}
+
+	#contenedor{
+
+		width: 85%;
+		margin: auto;
+		margin-top: 20px;
+		border-radius: 15px;
+		overflow: hidden;
+		margin-bottom: 20px;
+	}
+
+	header{
+
+		background: #525452;
+		width: 100%;
+		float: left;
+		height: 100px;
+
+	}
+	ul{
+		background:  #F6C101;
+	}
+
+	nav h1{
+
+		background: #010884;
+		text-align: center;
+		padding: 10px;
+		top: 10px;
+	}
+
+	nav{
+
+		height: 300px;
+
+
+
+	}
+
+	nav li{
+
+		list-style: none;
+		display: inline-block;
+		padding: 15px 0px
+
+	}
+
+	nav a{
+
+		color: #090909;
+		font-size: 18px;
+		font-weight: bold;
+		font-family: arial;
+		text-decoration: none;
+		padding: 15px;
+	}
+
+	nav a:hover{
+
+		background:#CCCCCC;
+		color: #090909;
+	}
+
+	img{
+
+		margin-top: 20px;
+		border: 2px solid #141515;
+		float: right;
+		width:80px; 
+	}
+
+	#contenido{
+		float: left;
+		width: 700px;
+		border-radius: 15px;
+		margin-bottom: 12px;
+		margin-right: 12px;
+		margin-top: 25px;
+			}
+
+	.articulos{
+
+		margin: 12px;
+		border: 3px solid #090909;
+		border-radius: 15px;
+		width: 680px;
+		height: 510px;
+
+
+	}
+
+	.articulos h2{
+
+		font-size: 18px;
+		color: black;
+		border background: 3px solid black;
+		font-family: arial;
+		text-align: center;
+	    top: 13px;
+	    color: #FFFFFF;
+	    background: black;
+
+	}
+
+	.articulos img{
+
+		float: left;
+		margin: 10px;
+		border-radius: 15px;
+		margin-top: 25px;
+		width: 25%;
+	}
+
+	.articulos p{
+		margin:3px;
+		font-family: arial;
+		margin-bottom: 20px;
+		text-align: justify;
+		padding: 5px;
+		font-size: 18px;
+		;
+
+	}
+
+	aside {
+
+
+		float: right;border-radius: 4px;
+		width: 550px;
+		background: #FFFFFF;
+		margin-top: 35px;
+		border-radius: 10px;
+	}
+
+	.articulos a {
+
+		background: blue;
+		color: black;
+		border : 3px solid black;
+		border-radius: 4px;
+		font-size: 22px;
+		float: right;
+		margin-bottom: 16px;
+		width: 15%;
+
+
+
+}
+
+
+
+
+		
+	
+
+	aside h3{
+		font size: 20px;
+		color: #FFFFFF;
+		background: black;
+		border-radius: 4px;
+		text-align: center;
+		padding: 10px;
+		font-family: arial;
+
+	}
+
+	aside p{
+
+		padding: 10px;
+		font-size: 14px;
+		font-family: arial;
+		text-align: justify;
+		font-size: 18px;
+	
+	}
+
+	footer{
+
+		position: static;
+		width: 85%;
+		margin: auto;
+		border-radius: 15px;
+		background: black;
+		color: #FFFFFF;
+		margin-bottom: 10px;
+
+		
+	}
+
+	footer p{
+
+		font-family: arial;
+		font-size: 15px;
+		text-align: center;
+		margin top: 16px;
+		
+		
+
+		}
+		h1{  
+			font-family: arial;
+		}
+
+
+}
+
+	
+
+
